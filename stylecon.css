@@ -1,0 +1,53 @@
+#b1 {
+  background-color: rgb(179, 161, 160);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    display: inline;
+    width: 90%;
+    height: 37%;
+    background-color: rgb(132, 113, 113);
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  a:link {
+    color: rgb(55, 16, 16);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(89, 14, 26);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: rgb(155, 66, 58);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  label {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+  }
+
+  #button {
+    background-color: rgb(88, 71, 61);
+    border-color: aliceblue;
+  }

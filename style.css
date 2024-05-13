@@ -1,0 +1,111 @@
+#logo {
+  height: 110%;
+  width: 90%;
+  border: solid;
+  border-width: 8px;
+}
+
+#b1 {
+    background-color: rgb(179, 161, 160);
+}
+
+#textone {
+    font-size: 50;
+    font-family: Oswald;
+    font-weight: 700;
+    background-color: rgb(152, 133, 132);
+    padding-top: 20px;
+}
+
+#texttwo {
+    font-weight: 500;
+    background-color: rgb(134, 116, 115);
+    
+}
+
+#textthree {
+  background-color: rgb(134, 116, 115);
+  padding: 50px 0px 25px 0px;
+  text-align: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#pfp1 {
+  background-color: rgb(134, 116, 115);
+  padding: 50px 0px 25px 0px;
+}
+
+#gh1 {
+    height: 85%;
+    width: 8%;
+    margin: 0px;
+    border-bottom: 0px;
+}
+
+#em1 {
+    height: 85%;
+    width: 8%;
+    margin: 0px;
+    border-bottom: 0px;
+}
+
+#placeholder {
+  width: 55%;
+  height: 100%;
+}
+
+li {
+    display: block;
+    width: 90%;
+    height: 37%;
+    background-color: rgb(132, 113, 113);
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    font-size: 130%;
+}
+
+a:link {
+  color: rgb(55, 16, 16);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(89, 14, 26);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(155, 66, 58);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+#carousel {
+  border:solid;
+  border-width: 5px;
+}
+
+#span {
+  margin: 25px 0px 25px 0px;
+  padding: 200px 0px 50px 0px
+}
+
+.container {
+  max-width: 540px;
+}
+
+#labels1 {
+  font-weight: 1000;
+  font-family:monospace;
+  font-style: normal;
+}

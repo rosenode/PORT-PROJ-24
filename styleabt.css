@@ -1,0 +1,41 @@
+#b1 {
+    background-color: rgb(179, 161, 160);
+  }
+
+  li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  a:link {
+    color: rgb(55, 16, 16);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(89, 14, 26);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: rgb(155, 66, 58);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  label {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+  }
+
+  #button {
+    background-color: rgb(88, 71, 61);
+    border-color: aliceblue;
+  }
